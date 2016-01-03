@@ -1,0 +1,18 @@
+PODS:
+  - Realm (0.97.0):
+    - Realm/Headers (= 0.97.0)
+  - Realm/Headers (0.97.0)
+  - RealmSwift (0.97.0):
+    - Realm (= 0.97.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - RealmSwift (~> 0.97)
+  - SwiftyJSON (~> 2.3)
+
+SPEC CHECKSUMS:
+  Realm: b498a6fb9d288b171ff98d0e2d4384c295be8990
+  RealmSwift: d014810dec75c9a3f1a33926d2dabfed855c582c
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
